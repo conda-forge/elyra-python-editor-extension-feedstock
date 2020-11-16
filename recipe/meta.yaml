@@ -20,7 +20,7 @@ requirements:
     - pip
     - python >=3.6
   run:
-    - elyra-server ==1.4.0
+    - elyra-server ==1.4.1
     - python >=3.6
 
 test:
