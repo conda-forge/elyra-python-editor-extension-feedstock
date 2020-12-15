@@ -25,9 +25,7 @@ requirements:
 
 test:
   commands:
-    - pip check
-  requires:
-    - pip
+    - exit 0
 
 about:
   home: https://github.com/elyra-ai/elyra
