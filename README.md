@@ -7,7 +7,7 @@ Package license: Apache-2.0
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/elyra-python-editor-extension-feedstock/blob/master/LICENSE.txt)
 
-Summary: Elyra provides AI Centric extensions to JupyterLab
+Summary: Elyra JupyterLab extension providing support for Python scripts. Learn more at https://elyra.readthedocs.io/en/stable/user_guide/enhanced-script-support.html
 
 Current build status
 ====================
