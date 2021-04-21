@@ -11,7 +11,7 @@ source:
   sha256: 055a8ca0a04ada517f91c6d1233432c9d0c51d4c88daa7667eb003df981fb9d8
 
 build:
-  number: 0
+  number: 1
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv
 
@@ -29,7 +29,7 @@ test:
 
 about:
   home: https://github.com/elyra-ai/elyra
-  summary: Elyra provides AI Centric extensions to JupyterLab
+  summary: Elyra JupyterLab extension providing support for Python scripts. Learn more at https://elyra.readthedocs.io/en/stable/user_guide/enhanced-script-support.html
   license: Apache-2.0
   license_file: LICENSE
 
