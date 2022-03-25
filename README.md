@@ -5,7 +5,7 @@ Home: https://github.com/elyra-ai/elyra
 
 Package license: Apache-2.0
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/elyra-python-editor-extension-feedstock/blob/master/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/elyra-python-editor-extension-feedstock/blob/main/LICENSE.txt)
 
 Summary: Elyra JupyterLab extension providing support for Python scripts. Learn more at https://elyra.readthedocs.io/en/stable/user_guide/enhanced-script-support.html
 
@@ -15,8 +15,8 @@ Current build status
 
 <table><tr><td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=11193&branchName=master">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/elyra-python-editor-extension-feedstock?branchName=master">
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=11193&branchName=main">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/elyra-python-editor-extension-feedstock?branchName=main">
       </a>
     </td>
   </tr>
