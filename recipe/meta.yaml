@@ -1,5 +1,5 @@
 {% set name = "elyra-python-editor-extension" %}
-{% set version = "3.6.1" %}
+{% set version = "3.7.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/elyra-python-editor-extension-{{ version }}.tar.gz
-  sha256: 1b3c21c342c24c0b156fcc12094d9e97f8e9cb2a41867c28224e1ae371437a1e
+  sha256: 3d6f5fd831a42380f0fc927a4c1f8e804b8ec496c175db17a853917b42eda9e8
 
 build:
   number: 0
